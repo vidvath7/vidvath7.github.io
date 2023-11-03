@@ -1,32 +1,16 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Vidvath Krishna's Portfolio
 
+Welcome to my portfolio repository! This is where I showcase my projects, work, and achievements in the field of Data Science, Machine Learning, and Artificial Intelligence.
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+## About Me
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+I'm Vidvath Krishna, an AI enthusiast currently pursuing my master's degree in Digital Engineering at Otto von Guericke University, Magdeburg. I'm passionate about machine learning, artificial intelligence, and data science, and I'm dedicated to advancing my skills in these domains.
 
-(* = not included)
+## My Skills
 
-AJ
-aj@lkn.io | @ajlkn
+- Programming Languages: Python, SQL, Java, HTML, Angular
+- Machine Learning and Data Science: TensorFlow, Keras, NumPy, Pandas, Scikit-learn, Matplotlib
+- Web Development and Frameworks: Flask API, Streamlit, Spring Boot
+- Development Tools and Environments: Google Colab, Jupyter Notebook, Visual Studio Code, PaaS-Heroku, Eclipse IDE, GitLab, Postman
+- Cloud Computing: Microsoft Azure
 
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
